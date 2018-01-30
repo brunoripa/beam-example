@@ -1,0 +1,8 @@
+Flask
+gunicorn
+
+
+google-cloud-dataflow
+google-cloud-datastore
+apache-beam[gcp]
+oauth2client

@@ -1,0 +1,8 @@
+pytest
+pytest-cov
+mock
+pylint
+pep8
+flask_testing
+
+-r requirements.txt

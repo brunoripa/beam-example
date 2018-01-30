@@ -1,0 +1,5 @@
+.cache
+*py[co]
+*egg-info
+.vscode
+.DS_Store
